@@ -1,3 +1,8 @@
 # propuestah
 
-aca es para poder trabajar con este proyecto, tengan mucho cuidado con el porfa. Lo quiero mucho
+La instruccion es estar en la carpeta game, y en la terminal ejecutar python3 juego. Y ya. facil
+
+```sh
+cd game
+python3 main.py
+```
